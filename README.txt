@@ -2,7 +2,7 @@
 
 代号:HGame
 Girl Hunting
-撩妹狂魔
+撩妹狂魔/泡妞达人
 
 第一部分
 框架搭建 or demo?
